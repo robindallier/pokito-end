@@ -1,0 +1,9 @@
+.header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: start;
+    background-color: #17002d;
+
+}
+ 
